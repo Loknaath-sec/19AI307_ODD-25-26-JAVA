@@ -35,8 +35,8 @@ To simulate an airport radar communication system using the Singleton pattern, e
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: DHINESH R 
-RegisterNumber:  212223220019
+Developed by: LOKNAATH P
+RegisterNumber: 212223240080
 */
 ```
 
@@ -85,4 +85,5 @@ public class prog {
 
 ## RESULT:
 Therefore the program successfully ensures that all flights communicate with a single RadarControlTower instance using the Singleton pattern.
+
 
