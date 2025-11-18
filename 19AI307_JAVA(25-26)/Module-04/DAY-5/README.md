@@ -4,7 +4,7 @@
 Create a ChatRoom class (mediator) and two users (colleagues) who send and receive messages through it. No direct communication allowed.
 
 ## AIM:
-
+Implement the Mediator pattern using a ChatRoom class to manage communication between User objects, preventing direct interaction.
 
 ## ALGORITHM :
 1. Create a ChatRoom class that holds a collection of users, registers users using registerUser(), delivers messages using sendMessage(from, to, message).
@@ -111,6 +111,7 @@ public class ChatApp {
 
 ## RESULT:
 Therefore the program successfully demonstrates message exchange using the Mediator Pattern, with all user communication routed through the ChatRoom.
+
 
 
 
